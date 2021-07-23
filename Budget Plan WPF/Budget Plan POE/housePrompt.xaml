@@ -1,0 +1,15 @@
+﻿<Window x:Class="Budget_Plan_POE.housePrompt"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Budget_Plan_POE"
+        mc:Ignorable="d"
+        Title="housePrompt" Height="200" Width="600"  Background="#FFBDA9A9">
+    <Grid>
+        <Label x:Name="label" Content="Budget Plan" HorizontalAlignment="Left" Margin="250,25,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.364,0.324" FontSize="20" FontWeight="Bold"/>
+        <Label x:Name="label8" Content="Are you Renting or Buying the Propety?" HorizontalAlignment="Left" Margin="130,62,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="btnBuy" Content="Buying the property" FontWeight="Black" HorizontalAlignment="Left" Margin="150,100,0,0" VerticalAlignment="Top" Click="btnBuy_Click"/>
+        <Button x:Name="btnRent" Content="Renting the property" FontWeight="Black" HorizontalAlignment="Left" Margin="280,100,0,0" VerticalAlignment="Top" Click="btnRent_Click"/>
+    </Grid>
+</Window>

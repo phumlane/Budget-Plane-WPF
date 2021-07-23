@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Buying.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Expenses.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="housePrompt.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Renting.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Saving.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SavingPrompt.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Vehicle.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VehiclePrompt.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Welcome.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Buying.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Expenses.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="housePrompt.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Renting.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Saving.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SavingPrompt.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Vehicle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VehiclePrompt.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Welcome.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

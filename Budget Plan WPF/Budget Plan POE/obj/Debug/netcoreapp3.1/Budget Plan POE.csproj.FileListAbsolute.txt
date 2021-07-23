@@ -1,0 +1,74 @@
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.csprojAssemblyReference.cache
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Buying.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Expenses.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Renting.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Vehicle.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Welcome.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE_MarkupCompile.cache
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE_MarkupCompile.lref
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.exe
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.deps.json
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.runtimeconfig.json
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.runtimeconfig.dev.json
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.dll
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.pdb
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Buying.baml
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Expenses.baml
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Renting.baml
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Vehicle.baml
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Welcome.baml
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.g.resources
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.AssemblyInfoInputs.cache
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.AssemblyInfo.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.csproj.CoreCompileInputs.cache
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.dll
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.pdb
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.genruntimeconfig.cache
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\housePrompt.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\housePrompt.baml
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Saving.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\SavingPrompt.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Saving.baml
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\SavingPrompt.baml
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\VehiclePrompt.g.cs
+C:\Users\Phumlane\source\repos\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\VehiclePrompt.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.exe
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.deps.json
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.runtimeconfig.json
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.runtimeconfig.dev.json
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.dll
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\bin\Debug\netcoreapp3.1\Budget Plan POE.pdb
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.csprojAssemblyReference.cache
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Buying.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Expenses.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\housePrompt.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Renting.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Saving.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\SavingPrompt.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Vehicle.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\VehiclePrompt.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Welcome.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE_MarkupCompile.cache
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE_MarkupCompile.lref
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Buying.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Expenses.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\housePrompt.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Renting.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Saving.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\SavingPrompt.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Vehicle.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\VehiclePrompt.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Welcome.baml
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.g.resources
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.AssemblyInfoInputs.cache
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.AssemblyInfo.cs
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.csproj.CoreCompileInputs.cache
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.dll
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.pdb
+E:\Project\School Work\18013284 PROG6211 Phumlane Maphisa POE\Budget Plan POE\Budget Plan POE\obj\Debug\netcoreapp3.1\Budget Plan POE.genruntimeconfig.cache

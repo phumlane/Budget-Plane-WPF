@@ -1,0 +1,31 @@
+﻿<Window x:Class="Budget_Plan_POE.Expenses"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Budget_Plan_POE"
+        mc:Ignorable="d"
+        Title="Expenses" Height="500" Width="600" Background="#FFBDA9A9" >
+    <Grid Margin="0,0,0,-6">
+        <Label x:Name="label" Content="Budget Plan" HorizontalAlignment="Left" Margin="250,15,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.364,0.324" FontSize="20" FontWeight="Bold"/>
+        <Label x:Name="label1" Content="Monthly Income" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Tax" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtIncome" HorizontalAlignment="Left" Height="23" Margin="130,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" RenderTransformOrigin="0.484,-0.027" />
+        <TextBox x:Name="txtTax" HorizontalAlignment="Left" Height="23" Margin="130,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+        <Button x:Name="btnSubmit" Content="Next" HorizontalAlignment="Center" FontWeight="Bold" Background="#FFB29074" Margin="10,390,0,0" VerticalAlignment="Center" Width="75" Click="btnSubmit_Click" RenderTransformOrigin="0.453,0.276"/>
+        <TextBox x:Name="txtGrocery" HorizontalAlignment="Left" Margin="130,180,0,0" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+        <TextBox x:Name="txtWaterAndLight" HorizontalAlignment="Left" Margin="130,220,0,0" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+        <TextBox x:Name="txtTravel" HorizontalAlignment="Left" Margin="130,260,0,0" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+        <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Margin="130,300,0,0" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" />
+        <TextBox x:Name="txtOther" HorizontalAlignment="Left" Margin="130,340,0,0" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="label3" Content="Grocery" HorizontalAlignment="Left" Margin="10,180,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Water and Light" HorizontalAlignment="Left" Margin="10,220,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Travel Cost" HorizontalAlignment="Left" Margin="10,260,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label6" Content="Phones Cost" HorizontalAlignment="Left" Margin="10,300,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label7" Content="Others Expenses" HorizontalAlignment="Left" Margin="10,340,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label8" Content="Can you enter the following Expenses:" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+       
+        <Label x:Name="label9" Content="Monthly Expenditures" HorizontalAlignment="Left" Margin="10,35,0,0" FontWeight="Black" VerticalAlignment="Top" FontSize="18"/>
+
+    </Grid>
+</Window>
